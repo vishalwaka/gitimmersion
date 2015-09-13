@@ -1,4 +1,4 @@
 #Default is "World"
-# Author: Vishal
+# Author: Vishal(vishmadh001@gmail.com)
 name=ARGV.first||"World"
 puts "Hello, #{name}"
